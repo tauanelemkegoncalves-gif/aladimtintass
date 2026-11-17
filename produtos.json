@@ -1,0 +1,103 @@
+[
+  {
+    "id": "tinta-emb",
+    "nome": "Tinta Emborrachada",
+    "categoria": "tintas",
+    "embalagens": [
+      "18 L"
+    ],
+    "imagem": "tinta-emb-18l.png",
+    "descricao": "A Tinta Emborrachada é ideal para proteger e renovar superfícies externas, proporcionando excelente cobertura, resistência e durabilidade. Sua fórmula flexível ajuda a prevenir pequenas fissuras e protege contra a ação da chuva e do sol, garantindo um acabamento bonito e uniforme."
+  },
+  {
+    "id": "selamassa",
+    "nome": "Selamassa",
+    "categoria": "tintas",
+    "embalagens": [
+      "3,6 L",
+      "18 L"
+    ],
+    "imagem": "selamassa.png",
+    "descricao": "A Selamassa é um selador acrílico e fundo preparador desenvolvido para preparar superfícies antes da aplicação de massa corrida. Ajuda a uniformizar a absorção, melhorar a aderência e proporcionar um acabamento mais uniforme, facilitando a aplicação e aumentando a qualidade do resultado final."
+  },
+  {
+    "id": "impermeab",
+    "nome": "Impermeabilizante Emborrachado para Lajes",
+    "categoria": "tintas",
+    "embalagens": [
+      "18 L"
+    ],
+    "imagem": "impermeab-lajes.png",
+    "descricao": "O Impermeabilizante Emborrachado para Lajes é ideal para proteger superfícies contra infiltrações e umidade. Sua fórmula flexível forma uma camada impermeável e resistente, ajudando a prevenir fissuras e protegendo contra a ação da chuva e do sol. Proporciona excelente cobertura, durabilidade e proteção para lajes e coberturas."
+  },
+  {
+    "id": "economica",
+    "nome": "Tinta Econômica Interna",
+    "categoria": "tintas",
+    "embalagens": [
+      "18 L"
+    ],
+    "imagem": "tinta-econ-18l.png",
+    "descricao": "A Tinta Econômica Interna é ideal para renovar e decorar ambientes internos com praticidade e economia. Proporciona boa cobertura, fácil aplicação e acabamento uniforme, deixando paredes e tetos com uma aparência bonita e renovada. Uma ótima opção para pinturas residenciais e comerciais."
+  },
+  {
+    "id": "cimento",
+    "nome": "Efeito Cimento Queimado",
+    "categoria": "tintas",
+    "embalagens": [
+      "5 kg"
+    ],
+    "imagem": "cimento-queimado-5kg.png",
+    "descricao": "O Efeito Cimento Queimado é um revestimento decorativo ideal para transformar ambientes com um acabamento moderno, elegante e sofisticado. Proporciona um visual inspirado no concreto, com efeitos e tonalidades diferenciadas, valorizando paredes e espaços internos. Uma excelente opção para quem busca beleza, estilo e personalidade na decoração."
+  },
+  {
+    "id": "imperpax",
+    "nome": "Imperpax",
+    "categoria": "tintas",
+    "embalagens": [
+      "3,6 L"
+    ],
+    "imagem": "imperpax-36l.png",
+    "descricao": "O Imperpax é um impermeabilizante desenvolvido para proteger paredes contra a umidade e infiltrações. Sua fórmula forma uma camada protetora que ajuda a impedir a passagem da água, proporcionando maior resistência e durabilidade às superfícies. Uma excelente opção para proteger e conservar paredes internas e externas."
+  },
+  {
+    "id": "textura",
+    "nome": "Textura Acrílica",
+    "categoria": "revestimentos",
+    "embalagens": [
+      "25 kg"
+    ],
+    "imagem": "textura-acr-25kg.png",
+    "descricao": "A Textura Acrílica é ideal para decorar e valorizar paredes internas e externas, proporcionando um acabamento moderno e diferenciado. Possui boa aderência, resistência e durabilidade, permitindo criar diversos efeitos decorativos. Uma excelente opção para renovar ambientes com beleza e praticidade."
+  },
+  {
+    "id": "grafiato",
+    "nome": "Grafiato",
+    "categoria": "revestimentos",
+    "embalagens": [
+      "25 kg"
+    ],
+    "imagem": "grafiato-25kg.png",
+    "descricao": "O Grafiato é um revestimento decorativo ideal para paredes internas e externas, proporcionando um acabamento rústico, moderno e sofisticado. Possui excelente aderência, resistência e durabilidade, criando efeitos riscados que valorizam e renovam os ambientes. Uma ótima opção para quem busca beleza, proteção e praticidade."
+  },
+  {
+    "id": "projetada",
+    "nome": "Textura Projetada",
+    "categoria": "revestimentos",
+    "embalagens": [
+      "25 kg"
+    ],
+    "imagem": "textura-proj-25kg.png",
+    "descricao": "A Textura Projetada é um revestimento decorativo ideal para paredes internas e externas, proporcionando um acabamento moderno, uniforme e sofisticado. Possui boa aderência, resistência e durabilidade, permitindo criar diferentes efeitos decorativos por meio da aplicação projetada. Uma excelente opção para valorizar fachadas e ambientes com beleza e praticidade."
+  },
+  {
+    "id": "massa",
+    "nome": "Massa Corrida",
+    "categoria": "revestimentos",
+    "embalagens": [
+      "15 kg"
+    ],
+    "imagem": "massa-corrida-15kg.png",
+    "descricao": "A Massa Corrida é ideal para nivelar e corrigir pequenas imperfeições em paredes e tetos de ambientes internos. Possui fácil aplicação e lixamento, proporcionando uma superfície lisa e uniforme, pronta para receber a pintura. Uma excelente opção para garantir um acabamento bonito e de qualidade."
+  }
+]

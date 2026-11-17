@@ -1,0 +1,10 @@
+ALADIM TINTAS - ARQUIVOS PARA GITHUB
+
+Todos os arquivos deste ZIP ficam na raiz do repositorio, sem pasta img.
+Extraia o ZIP e envie os arquivos (nao o ZIP) ao GitHub pelo Add file > Upload files.
+Os nomes das imagens ja foram padronizados para corresponder ao codigo.
+O site tem 10 produtos, sem Fortibril.
+Pagina inicial: index.html.
+Orcamentos: WhatsApp (41) 98498-3951.
+
+Ao atualizar um repositorio existente, remova arquivos antigos com nomes diferentes para evitar duplicatas.
